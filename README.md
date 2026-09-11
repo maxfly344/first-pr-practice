@@ -13,4 +13,4 @@ This repo starts nearly empty on purpose. The goal is to make a small, safe chan
 3. Make your change
 4. Open a pull request
 
-Feel free to keep useing this repo for future practice PRs.
+Feel free to keep using this repo for future practice PRs.
